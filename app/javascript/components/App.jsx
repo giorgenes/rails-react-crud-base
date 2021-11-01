@@ -1,9 +1,9 @@
 import React from 'react';
 
-const Greet = (props) => {
+const App = (props) => {
   return <b>Olá {props.name}</b>;
 };
 
-export default Greet;
+export default App;
 
 
